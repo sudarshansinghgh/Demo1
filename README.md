@@ -11,7 +11,7 @@
         </style>
     </head>
     <body>
-        <h1> Welcome to UTTRAKHAND </h1>
+        <h1> Welcome to ALL in UTTRAKHAND </h1>
         <p> we called it devbhoomi, its famous for its greenry </p>
     </body>
 </html>
